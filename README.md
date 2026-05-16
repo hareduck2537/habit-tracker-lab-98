@@ -1,2 +1,9 @@
-# habit-tracker-lab-98
-A simple habit tracker project
+# Habit Tracker
+
+A simple habit tracker project.
+\n
+## Getting Started
+
+```bash
+python main.py
+```
